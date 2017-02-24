@@ -6,6 +6,7 @@
 //  Copyright (c) 2013 Infragistics. All rights reserved.
 //
 //add
+//switch branch
 
 #import <AVFoundation/AVFoundation.h>
 #import "igViewController.h"
